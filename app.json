@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "AwesomeProject",
+    "slug": "AwesomeProject",
+    "foregroundImage": "./img/gta.png",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0237df02-a962-4f11-b7a2-e4714847ddbf"
+      }
+    }
+  }
+}
